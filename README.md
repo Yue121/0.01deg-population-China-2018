@@ -3,9 +3,6 @@
 
 * The 0.01° grid population data of China mainland in 2018 can be accessed freely at the figshare repository (https://doi.org/10.6084/m9.figshare.20400717.v1). 
 
-# Reference
-A global record of annual terrestrial Human Footprint dataset from 2000 to 2018.
-
 # Dataset Download
 
 * **Link 1**: [figshare](https://doi.org/10.6084/m9.figshare.20400717.v1)
